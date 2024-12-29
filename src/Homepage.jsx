@@ -295,7 +295,7 @@ function Homepage()
                         <h3> SideProject is an application deisnged for coders to publish/view projects and can be used for recruiters to see if a candidate has enough relevant experience in a particular technology through their projects.  </h3>
                         <br />
 
-                        <a href = "https://github.com/Calvin526/SideProject" className = "text-blue-500"> Project Link </a>
+                        <a href = "https://github.com/Calvin526/SideProject" className = "text-blue-500" target="_blank" rel="noopener noreferrer"> Project Link </a>
                     </CardContent>
                 </Card>
             </div>
