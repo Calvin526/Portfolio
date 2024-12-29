@@ -34,7 +34,7 @@ function App() {
     
     </div>
     <div>
-      <a href="/src/files/Calvin_Garcia_Resume.png" class="inline-block text-lg px-6 py-3 leading-none border rounded text-white border-white hover:border-transparent hover:text-purple-500 hover:bg-white mt-4 lg:mt-0"  target="_blank" rel="noopener noreferrer"> View Resume</a>
+      <a href="/public/Calvin_Garcia_Resume.pdf" class="inline-block text-lg px-6 py-3 leading-none border rounded text-white border-white hover:border-transparent hover:text-purple-500 hover:bg-white mt-4 lg:mt-0"  target="_blank" rel="noopener noreferrer"> View Resume</a>
     </div>
   </div>
 </nav>
