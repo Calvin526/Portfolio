@@ -53,9 +53,9 @@ function Homepage()
         <h1 className = "text-4xl">Summary </h1>
         <br />
         <div class="inline-block border border-black max-w-[50%] text-xl">
-                <h1> Hi, my name is Calvin Garcia and I'm currently hold a Master's degree in Computer Science from Stevens Institute of Technology. I'm proficient in C++, SQL, and web technologies including JavaScript, HTML, and CSS, along with several other programming languages. I'm actively seeking entry-level opportunities in software engineering. I bring a strong foundation and a commitment to continuous learning of new emerging technologies. </h1>
+                <h1> Hi, my name is Calvin Garcia and I currently hold a Master's degree in Computer Science from Stevens Institute of Technology. I'm proficient in C++, SQL, and web technologies including JavaScript, HTML, and CSS, along with several other programming languages. I'm actively seeking entry-level opportunities in software engineering. I bring a strong foundation in technology and a commitment to continuously learning emerging tools and frameworks. </h1>
                 <br />
-                <h1> I am currently expanding my expertise through learning new various web-development frameworks/libraries. More specifically, focusing on technologies such as Redis, GraphQL, React.js, Next.js, and Tailwind CSS, with the aim of applying these newfound skills in any future professional opportunities. </h1>
+                <h1> I am currently expanding my expertise by learning various web-development frameworks and libraries, focusing on technologies such as Redis, GraphQL, React.js, Next.js, and Tailwind CSS, aiming to apply these skills in future professional opportunities. </h1>
             </div>
         <br />
         <br />
@@ -280,7 +280,7 @@ function Homepage()
             </div>
 
             <div class="inline-block border border-black">
-                <Card sx={{ maxWidth: 345, maxHeight:481}}>
+                <Card sx={{ maxWidth: 345, maxHeight:480}}>
                     <CardMedia
                         component="img"
                         height="140"
@@ -293,7 +293,7 @@ function Homepage()
                         <h3> A Link Between Two Worlds </h3>
 
                         <br />
-                        <h3> MindLink is a 2D platformer game created in Unity. It's designed to mimic an EEG headset particularly with what direction the player character moves.</h3>
+                        <h3> MindLink is a 2D platformer game created in Unity. It's designed to mimic an EEG headset particularly with button presses mimicking either left or right movement.</h3>
                         <br />
 
                         <a href = "https://github.com/Calvin526/MindLink" className = "text-blue-500" target="_blank" rel="noopener noreferrer"> Project Link </a>
@@ -315,7 +315,7 @@ function Homepage()
                         <h3> A Coding Portfolio Page Web Application  </h3>
 
                         <br />
-                        <h3> SideProject is an application deisnged for coders to publish/view projects and can be used for recruiters to see if a candidate has enough relevant experience in a particular technology through their projects.  </h3>
+                        <h3> SideProject is an application designed for coders to publish/view projects and can be used for recruiters to see if a candidate has enough relevant experience in a particular technology through their projects.  </h3>
                         <br />
 
                         <a href = "https://github.com/Calvin526/SideProject" className = "text-blue-500" target="_blank" rel="noopener noreferrer"> Project Link </a>
