@@ -53,7 +53,7 @@ function Homepage()
         <h1 className = "text-4xl">Summary </h1>
         <br />
         <div class="inline-block border border-black max-w-[50%] text-xl">
-                <h1> Hi, my name is Calvin Garcia and I'm currently a second-year Graduate Computer Science Student @ Stevens Institute of Technology. I'm proficient in C++, SQL and Javascript/CSS/HTML alongside other various programming languages. I'm actively seeking entry-level opportunities in software engineering. I bring a strong foundation and a commitment to continuous learning of new emerging technologies. </h1>
+                <h1> Hi, my name is Calvin Garcia and I'm currently hold a Master's degree in Computer Science from Stevens Institute of Technology. I'm proficient in C++, SQL, and web technologies including JavaScript, HTML, and CSS, along with several other programming languages. I'm actively seeking entry-level opportunities in software engineering. I bring a strong foundation and a commitment to continuous learning of new emerging technologies. </h1>
                 <br />
                 <h1> I am currently expanding my expertise through learning new various web-development frameworks/libraries. More specifically, focusing on technologies such as Redis, GraphQL, React.js, Next.js, and Tailwind CSS, with the aim of applying these newfound skills in any future professional opportunities. </h1>
             </div>
@@ -62,7 +62,7 @@ function Homepage()
 
         <h1 className = "text-4xl">Relevant Skills: </h1>
         <br />
-        <div class="grid grid-cols-3 gap-2" id = "proficient">
+        <div class="grid grid-cols-2 gap-2" id = "proficient">
             <div class="inline-block border border-black">
                 <h1 className = "text-3xl">Web Development Frameworks</h1>
                 <br />
@@ -181,6 +181,29 @@ function Homepage()
 
             </div>
             </div>
+
+            <div class="inline-block border border-black">
+            <h1 className = "text-3xl">Cloud Computing/Microservices</h1>
+            <br />
+            <div class="grid grid-cols-3 gap-2">
+                <div class="flex flex-col items-center">
+                    <img src="https://www.clipartmax.com/png/small/421-4211389_check-official-docker-logo.png" alt="Docker Logo" class="h-8 w-8" />
+                    <h2 class="text-2xl font-semibold">Docker</h2>
+                </div>
+
+                <div class="flex flex-col items-center">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" alt="K8s Logo" class="h-8 w-8" />
+                    <h2 class="text-2xl font-semibold">Kubernetes</h2>
+                </div>
+
+                <div class="flex flex-col items-center">
+                    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*h78te1Nr-bUgqCtmFylC_g.png" alt="AWS EC2 Logo" class="h-8 w-8" />
+                    <h2 class="text-2xl font-semibold">AWS EC2</h2>
+                </div>
+
+
+            </div>
+            </div>
         </div>
 
         <br />
@@ -201,7 +224,7 @@ function Homepage()
                     <h1 className = "text-2xl font-bold"> Stevens Institute of Technology </h1>
                     <h3> Master's of Science in Computer Science </h3>
                     <h3> Hoboken, NJ </h3>
-                    <h3> September 2023 - May 2025 (Anticipated) </h3>
+                    <h3> September 2023 - May 2025 </h3>
                     </CardContent>
                 </Card>
             </div>
@@ -257,7 +280,7 @@ function Homepage()
             </div>
 
             <div class="inline-block border border-black">
-                <Card sx={{ maxWidth: 345, maxHeight:474}}>
+                <Card sx={{ maxWidth: 345, maxHeight:481}}>
                     <CardMedia
                         component="img"
                         height="140"
@@ -307,7 +330,7 @@ function Homepage()
 
         <br />
 
-        <h1 className = "text-3xl font-bold">© Calvin Garcia</h1>
+        <h1 className = "text-5xl font-bold">© Calvin Garcia</h1>
 
         <br />
 
