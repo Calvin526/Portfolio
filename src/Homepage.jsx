@@ -61,7 +61,7 @@ function Homepage()
         <div class="inline-block border border-black max-w-[50%] text-xl">
                 <h1> Hi, I’m Calvin Garcia. I earned my Master’s degree in Computer Science from Stevens Institute of Technology. I have experience working with C++, SQL, Java, and core web technologies like JavaScript, HTML, and CSS, along with exposure to several other programming languages. </h1>
                 <br />
-                <h1> In my current role as a Simulation Technician, I program and operate high-fidelity Laerdal manikins using SimDesigner and SimCapture to build realistic clinical training scenarios. I work closely with faculty to turn lesson objectives into interactive simulations while making sure the hardware and software systems run smoothly together. </h1>
+                <h1> In my current role as a Simulation Technician at the RWJBarnabas Health School of Nursing, I program and operate high-fidelity Laerdal manikins using SimDesigner and SimCapture to build realistic clinical training scenarios. I work closely with nursing faculty to turn lesson objectives into interactive simulations while making sure the hardware and software systems run smoothly together. </h1>
                 <br />
                 <h1> I’m currently seeking entry-level Software Engineering opportunities where I can apply my computer science background, build on my hands-on technical experience, and continue learning while contributing to meaningful projects. </h1>
         </div>
@@ -254,7 +254,7 @@ function Homepage()
                     <h3> Bronx, NY </h3>
                     <h3> January 2023 - December 2023</h3>
                     <br />
-                    <h3 className = "font-bold"> Responsibilities: Assist professor with grading student labs as well as assist students with lab assignments and questions they may through email.</h3>
+                    <h3 className = "font-bold"> Responsibilities: Assist professor with grading student labs as well as assist students with lab assignments and questions they may have about them through email.</h3>
                     </CardContent>
                 </Card>
             </div>
