@@ -276,7 +276,7 @@ function Homepage()
                     />
                     <CardContent>
                     <h1 className = "text-2xl font-bold"> Stevens Institute of Technology </h1>
-                    <h3> Master's of Science in Computer Science </h3>
+                    <h3> Master of Science in Computer Science </h3>
                     <h3> Hoboken, NJ </h3>
                     <h3> September 2023 - May 2025 </h3>
                     </CardContent>
@@ -295,7 +295,7 @@ function Homepage()
                     />
                     <CardContent>
                     <h1 className = "text-2xl font-bold"> Fordham University </h1>
-                    <h3> Bachelor's of Science in Computer Science </h3>
+                    <h3> Bachelor of Science in Computer Science </h3>
                     <h3> Bronx, NY </h3>
                     <h3> August 2020 - May 2023</h3>
                     </CardContent>
@@ -322,7 +322,7 @@ function Homepage()
                     
                     <CardContent>
                         <h1 className = "text-2xl font-bold"> Roommate Roulette </h1>
-                        <h3> Roommate Finder Application </h3>
+                        <h3> Roommate Finder Web Application </h3>
 
                         <br />
                         <h3> Roommate Roulette is an application designed to help users find roommate groups in areas nearby to them. Users are able to filter roommate groups by closest to furthest distance, overall group budget, as well as number of desired roommates. </h3>
