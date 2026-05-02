@@ -24,14 +24,14 @@ function Homepage()
         <br />
 
         <div className = "text-3xl">
-            <h1 className = "font-bold">Web Developer // Software Developer</h1>
+            <h1 className = "font-bold">Full Stack Developer</h1>
         </div>
 
         <br />
 
         <div className = "text-2xl">
-            <h1 className>Master's of Science in Computer Science @ Stevens Institute of Technology</h1>
-            <h1 className>Bachelor's of Science in Computer Science @ Fordham University</h1>
+            <h1 className>Master of Science in Computer Science @ Stevens Institute of Technology</h1>
+            <h1 className>Bachelor of Science in Computer Science @ Fordham University</h1>
         </div>
 
         <br />
